@@ -3,6 +3,8 @@ Asaas.com PHP-SDK
 
 SDK não-oficial de integração á API do serviço www.asaas.com
 
+Fork do projeto [https://github.com/softr/asaas-php-sdk](https://github.com/softr/asaas-php-sdk)
+
 Instalação
 ----------
 
