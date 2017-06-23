@@ -1,10 +1,10 @@
 <?php
-namespace Softr\Asaas\Adapter;
+namespace JRCouto\Asaas\Adapter;
 
 
 // Asaas
-use Softr\Asaas\Exception\HttpException;
-use Softr\Asaas\Adapter\BuzzAsaasAuthListener;
+use JRCouto\Asaas\Exception\HttpException;
+use JRCouto\Asaas\Adapter\BuzzAsaasAuthListener;
 
 // Buzz
 use Buzz\Browser;
@@ -16,7 +16,7 @@ use Buzz\Message\Response;
 /**
  * Buzz Adapter
  *
- * @author Agência Softr <agencia.softr@gmail.com>
+ * @author Jeandro Couto
  */
 class BuzzAdapter implements AdapterInterface
 {

@@ -1,5 +1,5 @@
 <?php
-namespace Softr\Asaas\Adapter;
+namespace JRCouto\Asaas\Adapter;
 
 
 // Buzz
@@ -11,7 +11,7 @@ use Buzz\Listener\ListenerInterface;
 /**
  * Buzz Asass Auth Listener
  *
- * @author Agência Softr <agencia.softr@gmail.com>
+ * @author Jeandro Couto
  */
 class BuzzAsaasAuthListener implements ListenerInterface
 {

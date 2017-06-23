@@ -1,20 +1,20 @@
 <?php
-namespace Softr\Asaas;
+namespace JRCouto\Asaas;
 
 
 // API's
-use Softr\Asaas\Adapter\AdapterInterface;
-use Softr\Asaas\Api\Customer;
-use Softr\Asaas\Api\Subscription;
-use Softr\Asaas\Api\Payment;
-use Softr\Asaas\Api\Notification;
-use Softr\Asaas\Api\City;
+use JRCouto\Asaas\Adapter\AdapterInterface;
+use JRCouto\Asaas\Api\Customer;
+use JRCouto\Asaas\Api\Subscription;
+use JRCouto\Asaas\Api\Payment;
+use JRCouto\Asaas\Api\Notification;
+use JRCouto\Asaas\Api\City;
 
 
 /**
  * Asass API Wrapper
  *
- * @author Agência Softr <agencia.softr@gmail.com>
+ * @author Jeandro Couto
  */
 class Asaas
 {

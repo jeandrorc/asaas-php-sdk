@@ -1,9 +1,9 @@
 <?php
-namespace Softr\Asaas\Adapter;
+namespace JRCouto\Asaas\Adapter;
 
 
 // Asaas
-use Softr\Asaas\Exception\HttpException;
+use JRCouto\Asaas\Exception\HttpException;
 
 // GuzzleHttp
 use GuzzleHttp\Client;
@@ -15,7 +15,7 @@ use GuzzleHttp\Exception\RequestException;
 /**
  * Guzzle Http Adapter
  *
- * @author Agência Softr <agencia.softr@gmail.com>
+ * @author Jeandro Couto
  */
 class GuzzleHttpAdapter implements AdapterInterface
 {

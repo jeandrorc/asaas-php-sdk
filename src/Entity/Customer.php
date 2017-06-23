@@ -1,12 +1,12 @@
 <?php
-namespace Softr\Asaas\Entity;
+namespace JRCouto\Asaas\Entity;
 
 /**
  * Customer Entity
  *
- * @author Agência Softr <agencia.softr@gmail.com>
+ * @author Jeandro Couto
  */
-final class Customer extends \Softr\Asaas\Entity\AbstractEntity
+final class Customer extends \JRCouto\Asaas\Entity\AbstractEntity
 {
     /**
      * @var int

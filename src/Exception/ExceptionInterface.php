@@ -1,8 +1,8 @@
 <?php
-namespace Softr\Asaas\Exception;
+namespace JRCouto\Asaas\Exception;
 
 /**
- * @author Agência Softr <agencia.softr@gmail.com>
+ * @author Jeandro Couto
  */
 interface ExceptionInterface
 {

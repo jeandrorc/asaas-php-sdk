@@ -1,12 +1,12 @@
 <?php
-namespace Softr\Asaas\Adapter;
+namespace JRCouto\Asaas\Adapter;
 
-use Softr\Asaas\Exception\HttpException;
+use JRCouto\Asaas\Exception\HttpException;
 
 /**
  * Adapter Http Interface
  *
- * @author Agência Softr <agencia.softr@gmail.com>
+ * @author Jeandro Couto
  */
 interface AdapterInterface
 {

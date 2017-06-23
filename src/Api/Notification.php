@@ -1,15 +1,15 @@
 <?php
-namespace Softr\Asaas\Api;
+namespace JRCouto\Asaas\Api;
 
 // Entities
-use Softr\Asaas\Entity\Notification as NotificationEntity;
+use JRCouto\Asaas\Entity\Notification as NotificationEntity;
 
 /**
  * Notification API Endpoint
  *
- * @author Agência Softr <agencia.softr@gmail.com>
+ * @author Jeandro Couto
  */
-class Notification extends \Softr\Asaas\Api\AbstractApi
+class Notification extends \JRCouto\Asaas\Api\AbstractApi
 {
     /**
      * Get all notifications

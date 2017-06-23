@@ -1,15 +1,15 @@
 <?php
-namespace Softr\Asaas\Api;
+namespace JRCouto\Asaas\Api;
 
 // Entities
-use Softr\Asaas\Entity\Customer as CustomerEntity;
+use JRCouto\Asaas\Entity\Customer as CustomerEntity;
 
 /**
  * Customer API Endpoint
  *
- * @author Agência Softr <agencia.softr@gmail.com>
+ * @author Jeandro Couto
  */
-class Customer extends \Softr\Asaas\Api\AbstractApi
+class Customer extends \JRCouto\Asaas\Api\AbstractApi
 {
     /**
      * Get all customers

@@ -1,5 +1,5 @@
 {
-    "name"       : "softr/asaas-php-sdk-v3",
+    "name"       : "jrcouto/asaas-php-sdk-v3",
     "type"       : "library",
     "description": "Asaas.com PHP API Wrapper for V3",
     "keywords"   : ["Asaas", "API", "Payment SaaS", "Credit Card", "Boleto"],
@@ -27,7 +27,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Softr\\Asaas\\": "src/"
+            "JRCouto\\Asaas\\": "src/"
         }
     },
     "minimum-stability": "dev"

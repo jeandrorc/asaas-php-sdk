@@ -1,13 +1,13 @@
 <?php
-namespace Softr\Asaas\Api;
+namespace JRCouto\Asaas\Api;
 
-use Softr\Asaas\Adapter\AdapterInterface;
-use Softr\Asaas\Entity\Meta;
+use JRCouto\Asaas\Adapter\AdapterInterface;
+use JRCouto\Asaas\Entity\Meta;
 
 /**
  * Abstract API
  *
- * @author Agência Softr <agencia.softr@gmail.com>
+ * @author Jeandro Couto
  */
 abstract class AbstractApi
 {
